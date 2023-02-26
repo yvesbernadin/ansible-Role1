@@ -1,0 +1,16 @@
+namespace: community
+name: mysql
+version: 3.6.0
+readme: README.md
+authors:
+  - Ansible community
+description: MySQL collection for Ansible
+license_file: COPYING
+tags:
+  - database
+  - mysql
+  - mariadb
+repository: https://github.com/ansible-collections/community.mysql
+documentation: https://github.com/ansible-collections/community.mysql
+homepage: https://github.com/ansible-collections/community.mysql
+issues: https://github.com/ansible-collections/community.mysql/issues
